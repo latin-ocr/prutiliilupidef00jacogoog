@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prutiliilupidef00jacogoog/prutiliilupidef00jacogoog_0007.png"; bbox 0 0 2788 4682; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 54 1490 1117 1786">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 54 1490 1117 1786">
+     <span class='ocr_line' id='line_1_1' title="bbox 54 1490 1117 1612; baseline 0 -31"><span class='ocrx_word' id='word_1_1' title='bbox 54 1537 70 1560; x_wconf 38' lang='lat' dir='ltr'><em>a</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 122 1491 404 1612; x_wconf 75' lang='lat' dir='ltr'>AUGUSTO</span> <span class='ocrx_word' id='word_1_3' title='bbox 433 1492 740 1584; x_wconf 78' lang='lat' dir='ltr'>wnovwo</span> <span class='ocrx_word' id='word_1_4' title='bbox 770 1490 1117 1585; x_wconf 68' lang='lat' dir='ltr'><strong>amnmmo</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 401 1695 714 1786; baseline 0.003 -1"><span class='ocrx_word' id='word_1_5' title='bbox 401 1735 404 1742; x_wconf 65' lang='lat'>,</span> <span class='ocrx_word' id='word_1_6' title='bbox 527 1695 714 1786; x_wconf 76' lang='lat' dir='ltr'><strong>JAOOB</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 372 2099 1028 2188">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 372 2099 1028 2188">
+     <span class='ocr_line' id='line_1_3' title="bbox 372 2099 1028 2188; baseline 0.005 -4"><span class='ocrx_word' id='word_1_7' title='bbox 372 2161 397 2185; x_wconf 74' lang='grc'><strong>.,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 435 2125 601 2188; x_wconf 74' lang='lat' dir='ltr'><strong>mm</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 630 2123 807 2188; x_wconf 73' lang='lat' dir='ltr'><strong>ormo.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 972 2099 974 2104; x_wconf 80' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1025 2103 1028 2113; x_wconf 87' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1398 4682">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1398 4682">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1398 4682; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1398 4682; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
